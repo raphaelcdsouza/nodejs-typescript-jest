@@ -1,2 +1,3 @@
 .rabbitmq_data
 docker-compose.yaml
+node_modules
